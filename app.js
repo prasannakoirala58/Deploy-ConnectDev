@@ -95,3 +95,7 @@ module.exports = app;
 
 // Username: prasanna
 // password:  h6yhJiw77FoYhAJG
+
+// Side Note:
+// The cyclic deployment require to add the NODE_ENV variable value to 'production'.
+// This was the last error
