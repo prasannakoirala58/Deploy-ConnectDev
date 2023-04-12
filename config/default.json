@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://prasanna:h6yhJiw77FoYhAJG@devconnector.yyztknd.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "99-problems-but-express-aint-one",
+  "githubClientId": "9d8dc65b83b20e401343",
+  "githubSecret": "296c93757f18e86eb94db4ca6c3ee040c4d313ea"
+}
